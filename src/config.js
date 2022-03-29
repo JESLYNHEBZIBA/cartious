@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-baseURL:"https://cartious.herokuapp.com/api/",
+baseURL:"https://cartous.herokuapp.com/api/",
 
 });
